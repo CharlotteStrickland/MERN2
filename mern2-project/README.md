@@ -1,3 +1,5 @@
+This is an exercise tracker that we decided to work on. This app runs off of using heroku, typscript and react. It's a MERN Full Stack Project that we could not get the frontend looking just right, but we could get the backend to look really nice. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
